@@ -1,0 +1,20 @@
+.container{
+    background-color: maroon;
+    color: #000000;
+}
+
+.title{
+    font-size: 70px;
+    text-align: center;
+}
+
+#box{
+    width: 300px;
+    height: 500px;
+    border: 2px solid red;
+}
+
+#judul{
+    text-align: center;
+    font-size: 3em;
+}
